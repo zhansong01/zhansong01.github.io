@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "Education"
-    url: "/#-education"
+    url: "/#education"
 
   - title: "Research Interests"
-    url: "/#-research-interests"
+    url: "/#research-interests"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#publications"
 
   - title: "Awards and Honors"
-    url: "/#-awards-and-honors"
+    url: "/#awards-and-honors"
 
   - title: "Work Experience"
-    url: "/#-work-experience"
+    url: "/#work-experience"
 
   - title: "Open-Source Frameworks"
-    url: "/#-open-source-frameworks"
+    url: "/#open-source-frameworks"
