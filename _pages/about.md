@@ -17,42 +17,58 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# About Me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a first-year Computer Engineering Ph.D. student at the University of Maryland, College Park, advised by Prof. Cunxi Yu. My research interests include Logic Synthesis, Formal Verification, and AI/LLM for EDA.
 
+**Contact Information:** 
+- Email: zhansong@umd.edu
+- <a href='https://scholar.google.com/citations?user=DdVCoawAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 📖 Education
+- *Aug. 2024 - present*, Ph.D. in Electrical and Computer Engineering, University of Maryland, College Park, USA (GPA: 3.94/4.00, Qualified)  
+  Advisor: Prof. Cunxi Yu
 
-# 📝 Publications 
+- *Sep. 2023 - June 2024*, M.S. in Computer Science and Engineering (Artificial Intelligence), University of California, San Diego, USA (GPA: 4.00/4.00)  
+  Advisor: Prof. Chung-Kuan Cheng
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+- *Sep. 2019 - June 2023*, B.S. in Computer Science and Technology, Fudan University, Shanghai, China (GPA: 3.67/4.00, Class Rank: 9/110)  
+  Advisor: Prof. Li Shang
+
+# 🔬 Research Interests
+- Logic Synthesis
+- Formal Verification
+- AI/LLM for EDA
+
+# 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[BoolE: Exact Symbolic Reasoning via Boolean Equality Saturation](https://scholar.google.com/citations?user=DdVCoawAAAAJ)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Jiaqi Yin\***, **Zhan Song\*** (co-first), Chen Chen, Qihao Hu, Cunxi Yu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Best Paper Nomination**
+
+- Introducing a novel approach for exact symbolic reasoning using Boolean Equality Saturation
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [HEC: Equivalence Verification Checking for Code Transformation via Equality Saturation](https://scholar.google.com/citations?user=DdVCoawAAAAJ), Jiaqi Yin, **Zhan Song**, Nicolas Bohm Agostini, Antonino Tumeo, Cunxi Yu, **USENIX ATC 2025**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving](https://scholar.google.com/citations?user=DdVCoawAAAAJ), Jiaqi Yin, **Zhan Song**, Chen Chen, Yaohui Cai, Zhiru Zhang, Cunxi Yu, **ICCAD 2025** [Under Review]
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [Noise-Aware Circuit Clustering based on Analytical Placement Evolution](https://scholar.google.com/citations?user=DdVCoawAAAAJ), Zhiyuan Chen, Chung-Kuan Cheng, **Zhan Song** (corresponding), Yucheng Wang, **SLIP 2024**
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 🏆 Awards and Honors
+- *June 2025* Best Paper Nomination, Design Automation Conference (DAC 2025)
+- *Aug. 2022* Second Prize, Invent Week Landing Awards, eBay China Center of Excellence (CCOE) (Top 5%)
+- *2020, 2022, 2023* Fudan University Scholarship
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Work Experience
+- *Jan. 2022 - Sep. 2022*, Software Engineer Intern, Payments & Risk Team, eBay, Shanghai, China
+
+# 🛠️ Open-Source Frameworks
+- [BoolE](https://github.com/zhansong01/BoolE): Exact Symbolic Reasoning via Boolean Equality Saturation
+- [Noise-Aware Circuit Clustering](https://github.com/zhansong01/NACC): Noise-Aware Circuit Clustering based on Analytical Placement Evolution
