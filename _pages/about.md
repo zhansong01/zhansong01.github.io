@@ -21,10 +21,6 @@ redirect_from:
 
 I am a first-year Computer Engineering Ph.D. student at the University of Maryland, College Park, advised by Prof. Cunxi Yu. My research interests include Logic Synthesis, Formal Verification, and AI/LLM for EDA.
 
-**Contact Information:** 
-- Email: zhansong@umd.edu
-- <a href='https://scholar.google.com/citations?user=DdVCoawAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
 # 📖 Education
 - *Aug. 2024 - present*, Ph.D. in Electrical and Computer Engineering, University of Maryland, College Park, USA (GPA: 3.94/4.00, Qualified)  
   Advisor: Prof. Cunxi Yu
@@ -70,5 +66,5 @@ I am a first-year Computer Engineering Ph.D. student at the University of Maryla
 - *Jan. 2022 - Sep. 2022*, Software Engineer Intern, Payments & Risk Team, eBay, Shanghai, China
 
 # 🛠️ Open-Source Frameworks
-- [BoolE](https://github.com/zhansong01/BoolE): Exact Symbolic Reasoning via Boolean Equality Saturation
-- [Noise-Aware Circuit Clustering](https://github.com/zhansong01/NACC): Noise-Aware Circuit Clustering based on Analytical Placement Evolution
+- [BoolE](https://github.com/Yu-Maryland/BoolE): Exact Symbolic Reasoning via Boolean Equality Saturation
+- [Noise-Aware Circuit Clustering](https://github.com/Hikipeko/noise-aware-circuit-clustering): Noise-Aware Circuit Clustering based on Analytical Placement Evolution
