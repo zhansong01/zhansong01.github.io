@@ -19,7 +19,9 @@ redirect_from:
 
 # About Me
 
-I am a first-year Computer Engineering Ph.D. student at the University of Maryland, College Park, advised by Prof. Cunxi Yu. My research interests include Logic Synthesis, Formal Verification, and AI/LLM for EDA.
+I am a first-year Computer Engineering Ph.D. student at the University of Maryland, College Park, advised by Prof. Cunxi Yu. My research interests include Logic Synthesis, Formal Verification, and AI/LLM for EDA. I welcome collaboration on any research projects in these areas - feel free to contact me at zhansong@umd.edu if you're interested in working together.
+
+You can find my CV [here](docs/cv.pdf).
 
 <span class='anchor' id='education'></span>
 
@@ -44,7 +46,7 @@ I am a first-year Computer Engineering Ph.D. student at the University of Maryla
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2025</div><img src='images/DAC_62_Square.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [BoolE: Exact Symbolic Reasoning via Boolean Equality Saturation](https://scholar.google.com/citations?user=DdVCoawAAAAJ)
@@ -53,7 +55,7 @@ I am a first-year Computer Engineering Ph.D. student at the University of Maryla
 
 **Best Paper Nomination**
 
-- Introducing a novel approach for exact symbolic reasoning using Boolean Equality Saturation
+- Introducing a novel approach for symbolic reasoning using Boolean Equality Saturation
 </div>
 </div>
 
