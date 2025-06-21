@@ -24,13 +24,13 @@ I am a first-year Computer Engineering Ph.D. student at the University of Maryla
 <span class='anchor' id='education'></span>
 
 # 📖 Education
-- *Aug. 2024 - present*, Ph.D. in Electrical and Computer Engineering, University of Maryland, College Park, USA (GPA: 3.94/4.00, Qualified)  
+- *Aug. 2024 - present*, Ph.D. in Electrical and Computer Engineering, University of Maryland, College Park, USA 
   Advisor: Prof. Cunxi Yu
 
-- *Sep. 2023 - June 2024*, M.S. in Computer Science and Engineering (Artificial Intelligence), University of California, San Diego, USA (GPA: 4.00/4.00)  
+- *Sep. 2023 - June 2024*, M.S. in Computer Science and Engineering (Artificial Intelligence), University of California, San Diego, USA
   Advisor: Prof. Chung-Kuan Cheng
 
-- *Sep. 2019 - June 2023*, B.S. in Computer Science and Technology, Fudan University, Shanghai, China (GPA: 3.67/4.00, Class Rank: 9/110)  
+- *Sep. 2019 - June 2023*, B.S. in Computer Science and Technology, Fudan University, Shanghai, China
   Advisor: Prof. Li Shang
 
 <span class='anchor' id='research-interests'></span>
