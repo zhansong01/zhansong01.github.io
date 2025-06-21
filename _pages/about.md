@@ -21,7 +21,7 @@ redirect_from:
 
 I am a first-year Computer Engineering Ph.D. student at the University of Maryland, College Park, advised by Prof. Cunxi Yu. My research interests include Logic Synthesis, Formal Verification, and AI/LLM for EDA. I welcome collaboration on any research projects in these areas - feel free to contact me at zhansong@umd.edu if you're interested in working together.
 
-You can find my CV [here](docs/cv.pdf).
+You can find my CV [here](/files/cv.pdf).
 
 <span class='anchor' id='education'></span>
 
