@@ -26,13 +26,16 @@ You can find my CV [here](/files/cv.pdf).
 <span class='anchor' id='education'></span>
 
 # 📖 Education
-- *Aug. 2024 - present*, Ph.D. in Electrical and Computer Engineering, University of Maryland, College Park, USA 
+- *Aug. 2024 - present*, Ph.D. in Electrical and Computer Engineering, University of Maryland, College Park, USA
+ 
   Advisor: Prof. [Cunxi Yu](https://ycunxi.github.io/cunxiyu/)
 
 - *Sep. 2023 - June 2024*, M.S. in Computer Science and Engineering (Artificial Intelligence), University of California, San Diego, USA
+
   Advisor: Prof. [Chung-Kuan Cheng](https://cseweb.ucsd.edu/~kuan/)
 
 - *Sep. 2019 - June 2023*, B.S. in Computer Science and Technology, Fudan University, Shanghai, China
+
   Advisor: Prof. [Li Shang](https://cscw.fudan.edu.cn/lishang/list.htm)
 
 <span class='anchor' id='research-interests'></span>
