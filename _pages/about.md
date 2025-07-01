@@ -49,6 +49,8 @@ You can find my CV [here](/files/cv.pdf).
 
 # 📝 Publications
 
+- [e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving](https://scholar.google.com/citations?user=DdVCoawAAAAJ), Jiaqi Yin, **Zhan Song**, Chen Chen, Yaohui Cai, Zhiru Zhang, Cunxi Yu, **ICCAD 2025**
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2025</div><img src='images/DAC_62_Square.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -63,8 +65,6 @@ You can find my CV [here](/files/cv.pdf).
 </div>
 
 - [HEC: Equivalence Verification Checking for Code Transformation via Equality Saturation](https://scholar.google.com/citations?user=DdVCoawAAAAJ), Jiaqi Yin, **Zhan Song**, Nicolas Bohm Agostini, Antonino Tumeo, Cunxi Yu, **USENIX ATC 2025**
-
-- [e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving](https://scholar.google.com/citations?user=DdVCoawAAAAJ), Jiaqi Yin, **Zhan Song**, Chen Chen, Yaohui Cai, Zhiru Zhang, Cunxi Yu, **ICCAD 2025** [Under Review]
 
 - [Noise-Aware Circuit Clustering based on Analytical Placement Evolution](https://scholar.google.com/citations?user=DdVCoawAAAAJ), Zhiyuan Chen, Chung-Kuan Cheng, **Zhan Song** (corresponding), Yucheng Wang, **SLIP 2024**
 
