@@ -49,24 +49,15 @@ You can find my CV [here](/files/cv.pdf).
 
 # 📝 Publications
 
-- [e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving](https://scholar.google.com/citations?user=DdVCoawAAAAJ), Jiaqi Yin, **Zhan Song**, Chen Chen, Yaohui Cai, Zhiru Zhang, Cunxi Yu, **ICCAD 2025**
+- [e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving](https://arxiv.org/pdf/2508.13020), Jiaqi Yin, **Zhan Song**, Chen Chen, Yaohui Cai, Zhiru Zhang, Cunxi Yu, **ICCAD 2025**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">DAC 2025</div><img src='images/DAC_62_Square.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[BoolE: Exact Symbolic Reasoning via Boolean Equality Saturation](https://scholar.google.com/citations?user=DdVCoawAAAAJ)
+- [BoolE: Exact Symbolic Reasoning via Boolean Equality Saturation](https://arxiv.org/pdf/2504.05577), **Jiaqi Yin\***, **Zhan Song\*** (co-first), Chen Chen, Qihao Hu, Cunxi Yu, **Best Paper Nomination**, **DAC 2025**
 
-**Jiaqi Yin\***, **Zhan Song\*** (co-first), Chen Chen, Qihao Hu, Cunxi Yu
 
-**Best Paper Nomination**
+- [HEC: Equivalence Verification Checking for Code Transformation via Equality Saturation](https://arxiv.org/pdf/2506.02290), Jiaqi Yin, **Zhan Song**, Nicolas Bohm Agostini, Antonino Tumeo, Cunxi Yu, **USENIX ATC 2025**
 
-- Introducing a novel approach for symbolic reasoning using Boolean Equality Saturation
-</div>
-</div>
-
-- [HEC: Equivalence Verification Checking for Code Transformation via Equality Saturation](https://scholar.google.com/citations?user=DdVCoawAAAAJ), Jiaqi Yin, **Zhan Song**, Nicolas Bohm Agostini, Antonino Tumeo, Cunxi Yu, **USENIX ATC 2025**
-
-- [Noise-Aware Circuit Clustering based on Analytical Placement Evolution](https://scholar.google.com/citations?user=DdVCoawAAAAJ), Zhiyuan Chen, Chung-Kuan Cheng, **Zhan Song** (corresponding), Yucheng Wang, **SLIP 2024**
+- [Noise-Aware Circuit Clustering based on Analytical Placement Evolution](https://dl.acm.org/doi/pdf/10.1145/3708358.3709348), Zhiyuan Chen, Chung-Kuan Cheng, **Zhan Song** (corresponding), Yucheng Wang, **SLIP 2024**
 
 <span class='anchor' id='awards-and-honors'></span>
 
@@ -83,5 +74,6 @@ You can find my CV [here](/files/cv.pdf).
 <span class='anchor' id='open-source-frameworks'></span>
 
 # 🛠️ Open-Source Frameworks
+- [e-boost](https://github.com/Yu-Maryland/e-boost): Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving
 - [BoolE](https://github.com/Yu-Maryland/BoolE): Exact Symbolic Reasoning via Boolean Equality Saturation
 - [Noise-Aware Circuit Clustering](https://github.com/Hikipeko/noise-aware-circuit-clustering): Noise-Aware Circuit Clustering based on Analytical Placement Evolution
