@@ -41,15 +41,15 @@ You can find my CV [here](/files/cv.pdf).
 <span class='anchor' id='research-interests'></span>
 
 # 🔬 Research Interests
+- Agentic AI
 - Logic Synthesis
 - Formal Verification
-- AI/LLM for EDA
 
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications
 
-- [e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving](https://arxiv.org/pdf/2508.13020), Jiaqi Yin, **Zhan Song**, Chen Chen, Yaohui Cai, Zhiru Zhang, Cunxi Yu, **ICCAD 2025**
+- [e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving](https://arxiv.org/pdf/2508.13020), Jiaqi Yin, **Zhan Song**, Chen Chen, Yaohui Cai, Zhiru Zhang, Cunxi Yu, **Best Paper Nomination**, **ICCAD 2025**
 
 
 - [BoolE: Exact Symbolic Reasoning via Boolean Equality Saturation](https://arxiv.org/pdf/2504.05577), **Jiaqi Yin\***, **Zhan Song\*** (co-first), Chen Chen, Qihao Hu, Cunxi Yu, **Best Paper Nomination**, **DAC 2025**
