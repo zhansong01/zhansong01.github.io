@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am a second-year Computer Engineering Ph.D. student at the University of Maryland, College Park, advised by Prof. Cunxi Yu. My research interests include Logic Synthesis, Formal Verification, and AI/LLM for EDA. I welcome collaboration on any research projects in these areas - feel free to contact me at zhansong@umd.edu if you're interested in working together.
+I am a second-year Computer Engineering Ph.D. student at the University of Maryland, College Park, advised by Prof. Cunxi Yu. My research interests include Agentic AI, Logic Synthesis, and Formal Verification. I welcome collaboration on any research projects in these areas - feel free to contact me at zhansong@umd.edu if you're interested in working together.
 
 You can find my CV [here](/files/cv.pdf).
 
@@ -62,6 +62,7 @@ You can find my CV [here](/files/cv.pdf).
 <span class='anchor' id='awards-and-honors'></span>
 
 # 🏆 Awards and Honors
+- *Oct. 2025* Best Paper Nomination, International Conference on Computer-Aided Design (ICCAD 2025)
 - *June 2025* Best Paper Nomination, Design Automation Conference (DAC 2025)
 - *Aug. 2022* Second Prize, Invent Week Landing Awards, eBay China Center of Excellence (CCOE) (Top 5%)
 - *2020, 2022, 2023* Fudan University Scholarship
