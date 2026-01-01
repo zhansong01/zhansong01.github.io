@@ -49,7 +49,7 @@ You can find my CV [here](/files/cv.pdf).
 
 # 📝 Publications
 
-- [ReVEAL: GNN-Guided Reverse Engineering for Formal Verification of Optimized Multipliers](https://arxiv.org/pdf/2508.13020), Chen Chen, Daniela Kaufmann, Chenhui Deng, **Zhan Song**, Hongce Zhang and Cunxi Yu, **TACAS 2026**
+- [ReVEAL: GNN-Guided Reverse Engineering for Formal Verification of Optimized Multipliers](https://www.arxiv.org/pdf/2512.22260), Chen Chen, Daniela Kaufmann, Chenhui Deng, **Zhan Song**, Hongce Zhang and Cunxi Yu, **TACAS 2026**
 
 - [e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving](https://arxiv.org/pdf/2508.13020), Jiaqi Yin, **Zhan Song**, Chen Chen, Yaohui Cai, Zhiru Zhang, Cunxi Yu, **Best Paper Nomination**, **ICCAD 2025**
 
