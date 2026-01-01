@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am a second-year Computer Engineering Ph.D. student at the University of Maryland, College Park, advised by Prof. Cunxi Yu. My research interests include Agentic AI, Logic Synthesis, and Formal Verification. I welcome collaboration on any research projects in these areas - feel free to contact me at zhansong@umd.edu if you're interested in working together.
+I am a second-year Computer Engineering Ph.D. student at the University of Maryland, College Park, advised by Prof. Cunxi Yu. My research interests include Agentic AI, AI Compiler, and AI for EDA. I welcome collaboration on any research projects in these areas - feel free to contact me at zhansong@umd.edu if you're interested in working together.
 
 You can find my CV [here](/files/cv.pdf).
 
@@ -42,12 +42,14 @@ You can find my CV [here](/files/cv.pdf).
 
 # 🔬 Research Interests
 - Agentic AI
-- Logic Synthesis
-- Formal Verification
+- AI Compiler
+- AI for System
 
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications
+
+- [ReVEAL: GNN-Guided Reverse Engineering for Formal Verification of Optimized Multipliers](https://arxiv.org/pdf/2508.13020), Chen Chen, Daniela Kaufmann, Chenhui Deng, **Zhan Song**, Hongce Zhang and Cunxi Yu, **TACAS 2026**
 
 - [e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving](https://arxiv.org/pdf/2508.13020), Jiaqi Yin, **Zhan Song**, Chen Chen, Yaohui Cai, Zhiru Zhang, Cunxi Yu, **Best Paper Nomination**, **ICCAD 2025**
 
@@ -75,6 +77,8 @@ You can find my CV [here](/files/cv.pdf).
 <span class='anchor' id='open-source-frameworks'></span>
 
 # 🛠️ Open-Source Frameworks
+- [ReVEAL](https://github.com/chestercc1997/Re_VEAL): GNN-Guided Reverse Engineering for Formal Verification of Optimized Multipliers
+- [HEC](https://github.com/Yu-Maryland/HEC): Equivalence Verification Checking for Code Transformation via Equality Saturation
 - [e-boost](https://github.com/Yu-Maryland/e-boost): Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving
 - [BoolE](https://github.com/Yu-Maryland/BoolE): Exact Symbolic Reasoning via Boolean Equality Saturation
 - [Noise-Aware Circuit Clustering](https://github.com/Hikipeko/noise-aware-circuit-clustering): Noise-Aware Circuit Clustering based on Analytical Placement Evolution
