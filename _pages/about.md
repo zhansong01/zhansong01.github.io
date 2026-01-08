@@ -21,8 +21,6 @@ redirect_from:
 
 I am a second-year Computer Engineering Ph.D. student at the University of Maryland, College Park, advised by Prof. Cunxi Yu. My research interests include Agentic AI, AI Compiler, and AI for System. I welcome collaboration on any research projects in these areas - feel free to contact me at zhansong@umd.edu if you're interested in working together.
 
-You can find my CV [here](/files/cv.pdf).
-
 <span class='anchor' id='education'></span>
 
 # 📖 Education
