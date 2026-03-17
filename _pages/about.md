@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am a second-year Computer Engineering Ph.D. student at the University of Maryland, College Park, advised by Prof. Cunxi Yu. My research interests include Agentic AI, AI Compiler, and AI for System. I welcome collaboration on any research projects in these areas - feel free to contact me at zhansong@umd.edu if you're interested in working together.
+I am a second-year Computer Engineering Ph.D. student at the University of Maryland, College Park, advised by Prof. Cunxi Yu. I welcome collaboration on any research projects in these areas - feel free to contact me at zhansong@umd.edu if you're interested in working together.
 
 You can find my CV [here](/files/cv.pdf).
 
@@ -42,22 +42,24 @@ You can find my CV [here](/files/cv.pdf).
 
 # 🔬 Research Interests
 - Agentic AI
-- AI Compiler
-- AI for System
+- Electronic Design Automation
+- Combinatorial Optimization
 
 <span class='anchor' id='publications'></span>
 
 # 📝 Publications
 
+- TOPCELL: Topology Optimization of Standard Cell via LLMs, **Zhan Song**, Yu-Tung Liu, Chen Chen, Guoheng Sun, Jiaqi Yin, Chia-tung Ho, Ang Li, Haoxing Ren, Cunxi Yu, **DAC 2026**
+
 - [ReVEAL: GNN-Guided Reverse Engineering for Formal Verification of Optimized Multipliers](https://www.arxiv.org/pdf/2512.22260), Chen Chen, Daniela Kaufmann, Chenhui Deng, **Zhan Song**, Hongce Zhang and Cunxi Yu, **TACAS 2026**
 
-- [e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving](https://arxiv.org/pdf/2508.13020), Jiaqi Yin, **Zhan Song**, Chen Chen, Yaohui Cai, Zhiru Zhang, Cunxi Yu, **Best Paper Nomination**, **ICCAD 2025**
+- [e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11240719), Jiaqi Yin, **Zhan Song**, Chen Chen, Yaohui Cai, Zhiru Zhang, Cunxi Yu, **Best Paper Nomination**, **ICCAD 2025**
 
 
-- [BoolE: Exact Symbolic Reasoning via Boolean Equality Saturation](https://arxiv.org/pdf/2504.05577), **Jiaqi Yin\***, **Zhan Song\*** (co-first), Chen Chen, Qihao Hu, Cunxi Yu, **Best Paper Nomination**, **DAC 2025**
+- [BoolE: Exact Symbolic Reasoning via Boolean Equality Saturation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11132728), **Jiaqi Yin\***, **Zhan Song\*** (co-first), Chen Chen, Qihao Hu, Cunxi Yu, **Best Paper Nomination**, **DAC 2025**
 
 
-- [HEC: Equivalence Verification Checking for Code Transformation via Equality Saturation](https://arxiv.org/pdf/2506.02290), Jiaqi Yin, **Zhan Song**, Nicolas Bohm Agostini, Antonino Tumeo, Cunxi Yu, **USENIX ATC 2025**
+- [HEC: Equivalence Verification Checking for Code Transformation via Equality Saturation](https://www.usenix.org/system/files/atc25-yin.pdf), Jiaqi Yin, **Zhan Song**, Nicolas Bohm Agostini, Antonino Tumeo, Cunxi Yu, **USENIX ATC 2025**
 
 - [Noise-Aware Circuit Clustering based on Analytical Placement Evolution](https://dl.acm.org/doi/pdf/10.1145/3708358.3709348), Zhiyuan Chen, Chung-Kuan Cheng, **Zhan Song** (corresponding), Yucheng Wang, **SLIP 2024**
 
@@ -72,6 +74,7 @@ You can find my CV [here](/files/cv.pdf).
 <span class='anchor' id='work-experience'></span>
 
 # 💻 Work Experience
+- *May 2026 - Aug. 2026*, Research Intern, Design Automation Research Group, NVIDIA, Santa Clara, United States
 - *Jan. 2022 - Sep. 2022*, Software Engineer Intern, Payments & Risk Team, eBay, Shanghai, China
 
 <span class='anchor' id='open-source-frameworks'></span>
