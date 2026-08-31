@@ -19,7 +19,7 @@ redirect_from:
 
 # About Me
 
-I am a second-year Computer Engineering Ph.D. student at the University of Maryland, College Park, advised by Prof. Cunxi Yu. I welcome collaboration on research projects - feel free to contact me at zhansong@umd.edu if you're interested in working together.
+I am a third-year Computer Engineering Ph.D. student at the University of Maryland, College Park, advised by Prof. Cunxi Yu. I welcome collaboration on research projects - feel free to contact me at zhansong@umd.edu if you're interested in working together.
 
 You can find my CV [here](/files/cv.pdf).
 
@@ -74,7 +74,7 @@ You can find my CV [here](/files/cv.pdf).
 <span class='anchor' id='work-experience'></span>
 
 # 💻 Work Experience
-- *May 2026 - Aug. 2026*, Research Intern, Design Automation Research Group, NVIDIA, Santa Clara, United States
+- *May 2026 - Nov. 2026*, Research Intern, Design Automation Research Group, NVIDIA, Santa Clara, United States
 - *Jan. 2022 - Sep. 2022*, Software Engineer Intern, Payments & Risk Team, eBay, Shanghai, China
 
 <span class='anchor' id='open-source-frameworks'></span>
