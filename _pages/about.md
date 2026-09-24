@@ -49,9 +49,11 @@ You can find my CV [here](/files/cv.pdf).
 
 # 📝 Publications
 
+- Structured Human-Like Agentic Flow for RTL Design, Yu-Tung Liu, **Zhan Song**, Chenhui Deng, Chia-Tung Ho, Cunxi Yu, **NeurIPS 2026**
+
 - [TOPCELL: Topology Optimization of Standard Cell via LLMs](https://arxiv.org/pdf/2604.14237), **Zhan Song**, Yu-Tung Liu, Chen Chen, Guoheng Sun, Jiaqi Yin, Chia-tung Ho, Ang Li, Haoxing Ren, Cunxi Yu, **DAC 2026**
 
-- [ReVEAL: GNN-Guided Reverse Engineering for Formal Verification of Optimized Multipliers](https://www.arxiv.org/pdf/2512.22260), Chen Chen, Daniela Kaufmann, Chenhui Deng, **Zhan Song**, Hongce Zhang and Cunxi Yu, **TACAS 2026**
+- [ReVEAL: GNN-Guided Reverse Engineering for Formal Verification of Optimized Multipliers](https://www.arxiv.org/pdf/2512.22260), Chen Chen, Daniela Kaufmann, Chenhui Deng, **Zhan Song**, Hongce Zhang, Cunxi Yu, **TACAS 2026**
 
 - [e-boost: Boosted E-Graph Extraction with Adaptive Heuristics and Exact Solving](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11240719), Jiaqi Yin, **Zhan Song**, Chen Chen, Yaohui Cai, Zhiru Zhang, Cunxi Yu, **Best Paper Nomination**, **ICCAD 2025**
 
