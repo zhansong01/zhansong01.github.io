@@ -49,6 +49,8 @@ You can find my CV [here](/files/cv.pdf).
 
 # 📝 Publications
 
+- ESTATE: Timing-Aware Transistor Network Design Space Exploration via Equality Saturation, **Zhan Song**, Chia-Tung Ho, Xiangdong Wei, Vikram Suresh, Yaguang Li, Yin Zhang, Sheng-Jung Yu, Tsunghsun Hsieh, Abhishek Akkur, Brucek Khailany, Cunxi Yu, **DATE 2027**
+
 - Structured Human-Like Agentic Flow for RTL Design, Yu-Tung Liu, **Zhan Song**, Chenhui Deng, Chia-Tung Ho, Cunxi Yu, **NeurIPS 2026**
 
 - [TOPCELL: Topology Optimization of Standard Cell via LLMs](https://arxiv.org/pdf/2604.14237), **Zhan Song**, Yu-Tung Liu, Chen Chen, Guoheng Sun, Jiaqi Yin, Chia-tung Ho, Ang Li, Haoxing Ren, Cunxi Yu, **DAC 2026**
